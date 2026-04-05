@@ -210,7 +210,6 @@ nav ol li a:hover {
     text-shadow: 0 0 12px rgba(151, 205, 46, 0.4);
 }
 
-/* Botón hamburguesa: oculto por defecto (solo móvil) */
 .btn-hamburguesa {
     display: none;
 }
@@ -539,7 +538,6 @@ html {
         display: none;
     }
 
-    /* Mostrar navegación cuando esté activa desde JS */
     nav.nav-visible {
         display: block;
     }
